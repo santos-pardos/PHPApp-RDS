@@ -1,4 +1,4 @@
-# Instalar `lab-app.zip` en una instancia EC2
+# Instalar PHP_AWS_App en una instancia EC2
 
 Esta guía instala la aplicación PHP del laboratorio de AWS Academy Cloud Foundations en una instancia EC2 con Amazon Linux 2. La página principal muestra el ID de instancia y la zona de disponibilidad; el menú también incluye una prueba de carga y una página de conexión a RDS.
 
